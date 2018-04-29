@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/studentdiana/studentdiana.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 Лелюх Діана
 студентка Львівського національного університету імені Івана Франка
@@ -24,16 +23,8 @@ Syntax highlighted code block
 член МО AIESEC
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/studentdiana/studentdiana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Контакти
 lnustudentdiana@gmail.com
